@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥸 Full-Stack Web Developer | React, NestJS, Flutter, MongoDB, SQL DB`s<br>🤝 I’m looking for help with Professional Back-End<br>🌱 Currently learning: NestJS, React, Flutter, Dart, JavaScript and deep TypeScript
+🥸 Full-Stack Web Developer | React, NestJS, Flutter, MongoDB, SQL DB`s<br>🤝 I’m looking for help with Professional Back-End Developers<br>📈 Currently learning: NestJS, React, Flutter, Dart, JavaScript and deep TypeScript
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/call.the.az) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/call.the.az)
