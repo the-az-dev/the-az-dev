@@ -18,11 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-Current Indie-projects:
-- Time in the void: Arkania
-- iStudy
----
 [![](https://visitcount.itsvg.in/api?id=the-az-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
