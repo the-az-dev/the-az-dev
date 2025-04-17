@@ -1,5 +1,5 @@
 # 💫 About Me:
-🥸 Full-Stack Web Developer | React, NestJS, MongoDB, SQL DB`s<br>🤝 I’m looking for help with Professional Back-End and Flutter Developers<br>🚩 Currently learning: <br>- Flutter, Junior stage (Bloc, Provider, Dio, Maps API, WebSocket and more)<br>- TypeScript / Back-end, Middle stage (NestJS,  Rest API, WebSocket, GraphQL, gRPC and more)<br>- TypeScript / Front-end, Middle stage (Nuxt 3, Vue, Zustand / Pinia and more)
+🥸 Full-Stack Web Developer | React, NestJS, MongoDB, SQL DB`s<br>🤝 I’m looking for help with Professional Back-End and Flutter Developers<br>🚩 Currently learning: <br>- Flutter, Junior stage (Bloc, Provider, Dio, Maps API, WebSocket and more)<br>- TypeScript / Back-end, Middle stage (NestJS,  Rest API, WebSocket, GraphQL, gRPC and more)<br>- TypeScript / Front-end, Middle stage (React, Next.js, Zustand and more)
 
 
 ## 🌐 Socials:
